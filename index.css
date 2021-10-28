@@ -1,0 +1,54 @@
+/* body {
+    background-color: lightslategray;
+}
+h1 {
+    color: cornsilk;
+    text-align: center;
+}
+p {
+    text-align: center;
+    color: brown;
+} */
+
+
+body {
+    background-color:violet
+}
+
+#welcome {
+    
+    text-align: center;
+    margin: 25px;
+}
+
+.holiday {
+       border-style:dashed double dotted 
+         
+   
+   }
+#div1 {   
+  
+    text-align: center;
+    background-color:aqua;
+    border:dashed;
+    width: 500px;
+    height: 500px;
+    margin-left:100px;
+    padding-left: 50px;
+    padding-right: 50px;
+              
+}
+
+a:hover  {
+
+    color:rgb(255, 81, 0);
+}
+
+a:link {
+    color: rgb(80, 20, 220);
+}
+
+table,td {
+    border: 1px solid black;
+    text-align: center;
+}
